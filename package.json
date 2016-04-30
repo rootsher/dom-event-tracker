@@ -1,0 +1,16 @@
+{
+  "name": "dom-event-tracker",
+  "version": "1.0.0",
+  "description": "DOM event tracker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dom",
+    "event",
+    "tracker"
+  ],
+  "author": "Konrad Kowalski <rootsher@gmail.com>",
+  "license": "ISC"
+}
